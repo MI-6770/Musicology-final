@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+nav{
+    background-color: #303030;
+}
+#search-btn{
+    background-color: #e8631c;
+}
+
+#navbarSupportedContent li:hover{
+    color: #30bae7;
+    margin: -2px;
+    background-color: #30b9e734;
+    border-radius: 5px;
+}
+.hero-part{
+    background: url(../Image/Musicology-Man.png) no-repeat center;
+    background-size: cover;
+    color: #fff;
+    padding: 300px 0px 20px;
+}
+.hero-part h1{
+    font-size: 70px;
+    font-weight: 700;
+}
+#hero-part-btn{
+    background-color: #e8631c;
+}
+
+#about{
+    background-image: url(../Image/Dance-back-image-1.png);
+    background-size: cover;
+}
+.title{
+    font-size: 70px;
+    font-weight: 700;
+}
+.card{
+    background-color: #303030;
+}
+.card1{
+    background-color: #e8631c;
+}
+#pricing-btn{
+    background-color: #303030;
+
+}
+
+#pricing{
+    background-image: url(../Image/Pricing-back.png);
+}
+.about-h2{
+    font-size: 70px;
+    font-weight: 700;
+}
+
+#amazing{
+    background-color: #282828;
+}
+.amazing-writing-part{
+    background-image: url(../Image/Amazing-back1.png);
+    
+}
+#amazing-btn{
+    background-color: #303030;
+}
+
+.card-h1{
+    font-size: 60px;
+    font-weight: 700;
+    padding: 20px 0px 20px;
+}
+.card-amazing{
+    padding-left: 60px;
+}
+#best-dance{
+    background-color: #282828;
+}
+.best-dance-writing-part{
+    background-image: url(../Image/Amazing-back-22.png);
+    
+}
+.card2{
+    padding-top: 50%;
+}
+#statistic{
+    background-color: #282828;
+}
+.statistic{
+    background-color: #303030;
+}
+.about-statistic{
+    background-color: #303030;
+    padding-top: 120px;
+}
+.card-title{
+    font-size: 60px;
+    font-weight: 700;
+}
+.about-box{
+    padding-bottom: 180px;
+}
+.statistic-text{
+    padding-top: 35px;
+    line-height: 35px;
+    width: 65%;
+    margin: auto;
+}
+#herbert{
+    background-image: url(../Image/Back-pic.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 250px;
+    padding-top: 250px;
+}
+#herbert p{
+    font-size: 50px;
+    padding: 50px 0px 50px;
+}
+#herbert h3{
+    font-size: 60px;
+}
+#subscribe{
+    background: url(../Image/Subscribe-back.png) no-repeat center;
+    background-size: cover;
+    padding: 150px 0px 150px;
+}
+.subcribe h2{
+    font-size: 70px;
+    font-weight: 700;
+}
+#subscribe-input{
+    width: 50%;
+    float: left;
+    height: 60px;
+    padding: 15px;
+
+}
+#subscribe-btn{
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    width: 300px;
+    height: 61px;
+    background-color: #303030;
+    
+}
+.footer{
+    background-color: #24262b;
+    padding: 40px 0px 40px;
+    color: #fff;
+
+}
+.contant{
+    width: 90%;
+    margin: auto;
+}
+
+.footer ul{
+    list-style: none;
+}
+.footer-row{
+    margin-left: 10%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.services h4{
+    padding: 0px 10px 20px;
+}
+.services1{
+    padding-left: 30px;
+}
+.services2{
+    padding-left: 100px;
+}
+.services3{
+    padding-left: 90px;
+}
+/* @media screen (min-width:540px) and (max-width:992px) {
+
+    .services {
+        padding: 0px;
+    }
+} */
+
+.link i {
+    background-color: #bdd1df;
+    width: 50px;
+    height: 49px;
+    font-size: 23px;
+    text-align: center;
+    color: #ffffff;
+    padding: 12px;
+    border-radius: 50px;
+    color: #303030;
+    margin: 4px;
+    margin-top: 11px;
+    transition: ease-in-out 0.5s;
+}
+.link i:hover{
+    background-color: rgba(0, 0, 255, 0.274);
+    color: #ffffff
+}
+.footer-col ul li a{
+    text-decoration: none;
+    font-weight: 300;
+    transform: : all 0.3s ease;
+}
+.footer-col ul li a:hover{
+    color: #fff;
+    padding-left: 5px;
+    background-color: rgba(0, 255, 255, 0.098);
+}
+ 
